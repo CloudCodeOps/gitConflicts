@@ -1,5 +1,9 @@
 from flask import Flask
+<<<<<<< HEAD
 import windows
+=======
+import linux
+>>>>>>> 3cd0c1551de9bf702c38adf8c1eb7a456d9411dd
 
 app = Flask(__name__)
 
